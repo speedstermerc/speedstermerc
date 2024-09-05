@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @speedstermerc
 - 👀 I’m interested in SAVING OUR WORLD
-- 🌱 I’m currently learning GITHUB
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on BIZNESS
-- 📫 How to reach me **Discord**: roban#0255
+- 📫 How to reach me **Discord**: robiebobie
 
 <!---
 speedstermerc/speedstermerc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
