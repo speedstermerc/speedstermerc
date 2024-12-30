@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @speedstermerc
-- 👀 I’m interested in SAVING OUR WORLD
-- 🌱 I’m currently learning ML
+@speedstermerc
+About Me:
+OPEN SOURCE FREEDOM FIGHTER
 - 📫 How to reach me **Discord**: robiebobie
 
 <!---
